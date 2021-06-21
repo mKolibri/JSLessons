@@ -23,6 +23,7 @@ const numberDiverse = (num) => {
     --i;
   }
 
+  diverseArray.push(num);
   return diverseArray;
 };
 
